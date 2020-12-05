@@ -7,7 +7,7 @@ CIS202 Decision Tree Project
   This is a binary tree because every node has either two children 
   (if it is a decision) or no children (if it is a conclusion). 
   
-  
+  Format: ![Image](https://github.com/Akuregian/CPlusPlus/blob/main/Decision_Tree/figure.png)
 
 
   Implement an animal guessing game with the decision tree described 
