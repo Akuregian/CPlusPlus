@@ -1,3 +1,3 @@
 # CPlusPlus Course
 
-This Repository Contains all the assignments throughout CIS 202 course @ Victor Valley College
+This Repository Contains all the assignments throughout _CIS 202_ course @ Victor Valley College
